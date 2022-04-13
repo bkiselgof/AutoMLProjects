@@ -1,4 +1,7 @@
 .ipynb_checkpoints/
+project_env/
+project_test/
+catboost_info/
 *.pkl
 .pytest_cache/
 __pycache__/
@@ -32,4 +35,4 @@ trained_models/
 mlflow_backend.py
 demo4.py
 examples/mlruns/
-/examples/mlruns
+
